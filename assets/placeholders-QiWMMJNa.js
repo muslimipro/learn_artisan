@@ -124,4 +124,4 @@ Your team has been tasked with developing an innovative solution to help drivers
 * LEDs show different colors based on the proximity flag calculation.
 * Correct number of LEDs light up according to the distance.
 * Ensure the buzzer activates correctly when the distance is less than 7 cm.
-* Observe the refresh rate and responsiveness (specified delay of 0.2 seconds).`,tokens:[e.ultrasonic,e.piezo,e.display,e["led tower"]]}};export{b as a,e as b,P as c,w as t};
+* Observe the refresh rate and responsiveness (specified delay of 0.2 seconds).`,tokens:[e.ultrasonic,e.piezo,e.display,e["led tower"]]}};export{e as a,b,P as c,w as t};
