@@ -1,1 +1,0 @@
-function o(e){const r=new URLSearchParams;for(const n in e)e.hasOwnProperty(n)&&r.append(n,e[n]);return r.toString()}function a(e){var r="";for(const n of e)n=="?"?r+="%3f":r+=n;return r}export{o,a as u};
