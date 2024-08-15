@@ -1,0 +1,1 @@
+import{_ as t,f as s,o,g as c,h as n,a}from"./index-C11EpQ5l.js";const r={},_=a("div",{class:"text-h5 pb-6"},"Students Progress",-1);function d(i,l){const e=s("v-col");return o(),c(e,{style:{"min-width":"100px","max-width":"100%"}},{default:n(()=>[_]),_:1})}const p=t(r,[["render",d]]);export{p as default};
