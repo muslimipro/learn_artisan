@@ -1,1 +1,0 @@
-import{G as h,Q as a,H as n}from"./index-C11EpQ5l.js";function f(){const t=h();function s(o,e){const r=a();return r?fetch(o,{...e,headers:{...e==null?void 0:e.headers,Authorization:`Bearer ${r.access_token}`}}).then(u=>(u.status===401&&(n(),t.push({path:"/login"})),u)):(t.push({path:"/login"}),new Promise(()=>{}))}return{fetchAPI:s}}export{f as u};
