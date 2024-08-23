@@ -1,0 +1,1 @@
+import{_ as t,f as o,o as s,g as c,h as n,a}from"./index-BysqhvNz.js";const r={},_=a("div",{class:"text-h5 pb-6"},"Student Profile",-1);function i(d,l){const e=o("v-col");return s(),c(e,{style:{"min-width":"100px","max-width":"100%"}},{default:n(()=>[_]),_:1})}const p=t(r,[["render",i]]);export{p as default};

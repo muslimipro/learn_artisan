@@ -1,1 +1,0 @@
-import{_ as t,f as o,o as c,g as s,h as a,a as n}from"./index-BsvzRqxu.js";const r={},_=n("div",{class:"text-h5 pb-6"},"Archive",-1);function i(d,h){const e=o("v-col");return c(),s(e,{style:{"min-width":"100px","max-width":"100%"}},{default:a(()=>[_]),_:1})}const f=t(r,[["render",i]]);export{f as default};
