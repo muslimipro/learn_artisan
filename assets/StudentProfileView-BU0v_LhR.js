@@ -1,0 +1,1 @@
+import{_ as t,b as o,o as s,k as c,f as n,a}from"./index-CxZPMcty.js";const r={},_=a("div",{class:"text-h5 pb-6"},"Student Profile",-1);function i(d,l){const e=o("v-col");return s(),c(e,{style:{"min-width":"300px","max-width":"100%"}},{default:n(()=>[_]),_:1})}const p=t(r,[["render",i]]);export{p as default};
