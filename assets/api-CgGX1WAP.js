@@ -1,0 +1,1 @@
+import{D as h,Q as a,E as n}from"./index-Cyv1Qn4w.js";function f(){const t=h();function s(o,e){const r=a();return r?fetch(o,{...e,headers:{...e==null?void 0:e.headers,Authorization:`Bearer ${r.access_token}`}}).then(u=>(u.status===401&&(n(),t.push({path:"/login"})),u)):(t.push({path:"/login"}),new Promise(()=>{}))}return{fetchAPI:s}}export{f as u};
