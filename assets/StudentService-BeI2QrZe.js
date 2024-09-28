@@ -1,0 +1,1 @@
+import{a as o}from"./api-client-DEVUAY6z.js";const a={async connectClass(s){return await o.post(`/school/student/connectclass?code=${s}`)},async removeStudentFromClass(s,e){return(await o.delete(`/school/student/${s}/removeFromClass?school_class_id=${e}`)).data}};export{a as S};
