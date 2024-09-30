@@ -1,1 +1,0 @@
-import{a}from"./api-client-CGqXPkVV.js";const s={async getProjects(e){const t=await a.get(`/projects/?language=${e}`);return console.log(t.data),t.data},async getProjectByID(e){return(await a.get("/projects/"+e)).data}};export{s as P};
