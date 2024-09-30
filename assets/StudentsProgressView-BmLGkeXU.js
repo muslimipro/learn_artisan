@@ -1,1 +1,0 @@
-import{_ as t,e as s,o,n as c,g as n,a}from"./index-BXMFfV9n.js";const r={},_=a("div",{class:"text-h5 pb-6"},"Students Progress",-1);function d(i,l){const e=s("v-col");return o(),c(e,{style:{"min-width":"300px","max-width":"100%"}},{default:n(()=>[_]),_:1})}const f=t(r,[["render",d]]);export{f as default};

@@ -1,1 +1,0 @@
-import{a as s}from"./api-client-DhT5dV-o.js";const t={async getUserProfile(){return(await s.get("/user/profile")).data},async changeUserPassword(e,a){return(await s.post("/user/change_password",{old:e,new:a})).data},async getMe(){const e=await s.get("/user/me");return console.log(e.data),e.data}};export{t as P};
