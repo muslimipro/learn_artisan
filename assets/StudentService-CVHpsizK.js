@@ -1,0 +1,1 @@
+import{a as t}from"./api-client-DCRG0gjD.js";const a={async connectClass(e){return await t.post(`/school/student/connectclass?code=${e}`)},async removeStudentFromClass(e,s){return(await t.delete(`/school/student/${e}/removeFromClass?school_class_id=${s}`)).data},async getStudentProfile(e){return(await t.get(`/school/student/${e}/profile`)).data}};export{a as S};
