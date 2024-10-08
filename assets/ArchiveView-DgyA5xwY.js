@@ -1,1 +1,0 @@
-import{_ as t,b as o,o as c,h as s,w as a,a as n}from"./index-CMFp1MV5.js";const r={},_=n("div",{class:"text-h5 pb-6"},"Archive",-1);function i(d,h){const e=o("v-col");return c(),s(e,{style:{"min-width":"100px","max-width":"100%"}},{default:a(()=>[_]),_:1})}const p=t(r,[["render",i]]);export{p as default};
