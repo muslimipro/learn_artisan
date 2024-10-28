@@ -1,1 +1,0 @@
-import{a as s}from"./api-client-COTgTXz3.js";const n={async getUserProfile(){return(await s.get("/user/profile")).data},async changeUserPassword(e,r){return(await s.post("/user/change_password",{old:e,new:r})).data},async getMe(){return(await s.get("/user/me")).data}};export{n as P};
